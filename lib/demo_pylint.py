@@ -1,5 +1,8 @@
-# ./lib/demo_pylint.py
-x = 1
-y = 2
+"""
+Demo for Pylint
+./lib/demo_pylint.py
+"""
+X = 1
+Y = 2
 
-print(x + y)
+print(X + Y)
