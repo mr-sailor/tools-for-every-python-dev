@@ -6,7 +6,14 @@ authors = ["mr-sailor <filip.sailor@gmail.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
-python = "^3.8"
+python = "^3.10.12"
+black = "^23.7.0"
+pre-commit = "^3.3.3"
+pylint = "^2.17.5"
+mypy = "^1.4.1"
+pyflakes = "^3.1.0"
+isort = "^5.12.0"
+flake8 = "^6.1.0"
 
 
 [build-system]

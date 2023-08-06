@@ -1,17 +1,14 @@
 # Stretched print statement
 print(
-    "Hi"
+                "Hi"
 )
 
 # Over-spaced loop
-for     i in [1,2,3]:
+for             i in [1,2,3]:
+
 
 
     print(f"Iteration={i}")
-
-
-
-
 
 
 
